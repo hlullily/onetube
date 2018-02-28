@@ -1,0 +1,58 @@
+
+#content{font-family: "微软雅黑"; font-size: 16px; line-height: 24px; width: 940px; margin: 0 auto; border: 1px solid rgba(120,120,120,0.5); padding:20px; padding-top:30px; margin-top:20px;margin-bottom:20px;position: relative; color: black; text-align: center;}
+		#content .article h2{margin: 15px;}
+		#content .article  p{text-indent: 2em; width: 90%; margin: 0 auto; text-align: left;}
+		.header_img img{width: 900px;}
+		#content .article img{float: left; margin:20px; margin-left: 40px; width: 400px; height: 400px; padding: 10px; border: 1px solid rgba(120,120,120,0.2);}
+		.cost a:hover{padding: 2px;}
+		.clear{clear: both;}
+		#content .article ul{line-height: 2em; text-align: left;border: 1px dotted red; height: 460px;box-shadow: 1px 2px 10px darkblue;}
+		#content .article ul li{margin-top:10px;list-style: none; color: #808080;}
+		#content .article ul li span{ color: black;}
+		#content .article ul .cost{color:white; background-color: darkred; display: block; position: absolute; right: 20px; font-weight: bold;  padding-left:10px; box-shadow: -1px 2px 2px darkblue;}
+		#content .article ul .cost a{float: right; display: block; color:white; margin-left: 10px; padding-left:10px; border-left:4px solid white;}
+		.clear{clear: both;}
+		#comments_Xline{ margin-top:10px;margin-bottom: 15px;}
+		
+		/*bootstrap瀑布流*/
+		.moreBooks img{width: 250px; height: 250px;padding: 10px; border: 1px solid rgba(120,120,120,0.2);}
+		.moreBooks{
+		    margin-top: 20px;
+			position: relative;
+		}
+		
+		.moreBooks ol{
+		    margin-top: 20px;
+		}
+		.moreBooks ul li{list-style: none;}
+		
+		.moreBooks .name{
+		    margin-bottom: 20px;
+		
+		}
+		.moreBooks .name a{
+		    color: #e79613;
+		}
+		
+		.moreBooks .smallname{
+		    margin-bottom: 10px;
+		
+		}
+		.moreBooks .newstitle:hover{
+		    color:#e79613;
+		}
+		.moreBooks .more a{
+		    color:#e79613;
+		    float: right;
+		}
+		
+		.moreBooks .article p{
+		    color:#999999 ;
+		}
+		.moreBooks .row .button_row  .col-lg-offset-4{
+		    font-size: 20px;
+		    color: white;
+		    text-align: center;
+		    background: #e79613;
+		}
+		a:hover{text-decoration: none; text-underline: none;}

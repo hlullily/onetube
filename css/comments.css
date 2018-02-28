@@ -1,0 +1,22 @@
+#comments{position: relative; color: black;margin: 0 auto; text-align: left; width: 980px;}
+#reply-form2{padding-top:8px;}
+.input{padding-bottom:20px;}
+#comments input {
+	 width: 980px;
+	font-size: 1em;
+	line-height: 1.5em;
+	padding: 0.5em;
+	resize: none;
+	font-family: inherit;
+	color: inherit;
+	box-sizing: border-box;
+	border: 1px solid rgba(120,120,120,0.5);
+}
+.send-btn{border: 1px solid rgba(120,120,120,0.5); background:rgba(20,200,200,0.1); width: 4em;height: 2em;display: inline-block;text-align: center;line-height: 2em;cursor:pointer; margin-bottom:40px;}
+
+.sdComments{padding: 1em;position: relative; color: black;margin: 0 auto; text-align: left; width: 940px; border: 1px solid rgba(120,120,120,0.5);margin-bottom:40px;}
+.sdComments span{display:block; float: right; font-size: 14px; line-height: 1.5em;}
+.sdComments span a:hover{padding: 2px;}
+.sdComments h6{color:darkgrey; opacity: 0.8; font-size: 16px;}
+.clear{clear: both;}
+#comments_Xline{ margin-top:10px;margin-bottom: 15px;}

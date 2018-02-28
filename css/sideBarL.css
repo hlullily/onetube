@@ -1,0 +1,6 @@
+#sideBarL{width: 160px; position: absolute; left: 10px; position: fixed; z-index: 9;}
+#sideBarL li{text-decoration: none; display: block; list-style: none; background: rgba(0,105,78,0.5);
+font-size: 22px; margin:10px; margin-top: 20px; text-align: center; border-radius: 8px; border: 2px dotted white;
+box-shadow: 1px 1px 5px darkblue;}
+#sideBarL li a{color: white;}
+#sideBarL li:hover{ padding: 2px; opacity: 0.7; }

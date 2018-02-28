@@ -1,0 +1,21 @@
+@charset "utf-8";
+*{ margin:0px; padding:0px;}
+  a{ text-decoration:none; color:black;}
+  ul{ list-style:none;}
+  .clear{ clear:both;}/* CSS Document */
+  
+    header{ height:120px; width:100%; background:url(../images/header_bg.png);}
+  nav{ height:40px; width:100%; background:#CCC; opacity:.7;}
+  .div_1{ height:40px; width:960px; margin:0 auto; position:relative; margin-top:-40px;}
+  ul li{ display:inline-block;float:left; width:50px; line-height:40px; text-align:center; margin-left:10px;}
+  ul li a{ font-family:"隶书"; font-size:18px; display:inline-block;}
+ .div_1 .nav_last{ float:right; margin-left:840px;  position:absolute;}/* CSS Document */
+ 
+ section{ height:500px; width:960px; margin:0 auto; background:url(../images/index_BG.png);}
+ 
+ .div_left,.div_right{ height:300px; width:350px;}
+ .div_left{ float:left; margin-top:100px; margin-left:100px;}
+ .div_right{ float:right; margin-top:100px; margin-right:100px;}
+ 
+ .div_left a,.div_right a{ display:inline-block; line-height:40px; width:140px; text-align:center; margin-top:130px; margin-left:100px; font-family:"隶书"; font-size:24px;}
+
